@@ -1,0 +1,38 @@
+body{
+    padding-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+
+#buttonContain{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 0.6rem;
+}
+
+.btn{
+    font-size: 3em;
+    padding:10px;
+    background-color:cornflowerblue;
+    border-radius: 5px;
+    cursor: pointer;
+    color: wheat;
+    margin:10px;
+    border-color: transparent;
+}
+
+.btn:hover{
+    background-color: rgb(57, 99, 176);
+}
