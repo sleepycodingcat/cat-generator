@@ -36,6 +36,6 @@ resetBtn.onclick = function(){
     count = 0;
     countLabel.textContent = count;
     document.getElementById("cats").innerHTML = "";
-    document.getElementById('meow').innerHTML = '<audio id="audio-player" autoplay = "true" src="angry cat.wav" type="audio/wav">';
+    document.getElementById('meow').innerHTML = '<audio id="audio-player" autoplay = "true" src="media/angry cat.wav" type="audio/wav">';
 }
 
